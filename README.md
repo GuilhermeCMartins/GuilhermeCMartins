@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Guilherme
 
-
-**Enthusiast web/mobile developer** 
 <br>
 <br>
 <h4>Frontend</h4>
@@ -25,10 +23,10 @@
 </p>
 
 <br>  
-  ## About me &#128513;
+  About me &#128513;
   <p>
   <b>
-  I`m a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Next a front framework that I really like.
+  I`m a lover of technology &#128525; passionate about front end development, I work on my projects with Next a front framework that I really like.
   i like to learn new technology and update myself. i also like to contribute in open sources projects
 
 
@@ -37,7 +35,6 @@
   </p>
 
 - 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning Flutter
 
 <br>
 
